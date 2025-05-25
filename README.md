@@ -1,2 +1,3 @@
-# momotalk-ai
-Restore momotalk from the game Blue Archive and integrate with AI
+# MomoTalk-AI
+Blue Archive momotalk style AI WebUI
+
